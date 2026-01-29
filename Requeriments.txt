@@ -1,0 +1,11 @@
+pandas>=1.5
+numpy>=1.23
+scipy>=1.10
+statsmodels>=0.14
+scikit-learn>=1.2
+matplotlib>=3.7
+seaborn>=0.12
+scikit-posthocs>=0.7
+
+# Optional Spark support (not required for main analysis)
+# pyspark>=3.4
