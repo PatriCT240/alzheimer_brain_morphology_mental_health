@@ -1,0 +1,4 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+0,1,1.2268,0.0,0.9924,1.4613,True
+0,2,2.6684,0.0,2.425,2.9118,True
+1,2,1.4415,0.0,1.1538,1.7293,True
